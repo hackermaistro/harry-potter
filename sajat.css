@@ -1,0 +1,27 @@
+.kepek{
+    border: solid 2px red   ;
+    box-shadow: 4px 4px;
+    padding: 20px;
+    margin: 20px;
+    height: 650px;
+    width: 400px;
+    background-color: antiquewhite;
+}
+.szincim{
+    color: green;
+    text-align: center;
+    font-weight: bold;
+
+}
+.gomb{
+    margin: 10px;
+
+}
+.kiskep{
+    width: 300px;
+    height: 400px;
+
+}
+body{
+    background-color: bisque;
+}
